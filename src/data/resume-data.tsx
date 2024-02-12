@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   about: "Full Stack Developer",
   summary: "Full stack web developer with over a year of experience building user interfaces and RESTful APIs. Proficient in JavaScript/TS and its frameworks like React, Next, Node, Express, and Nest. Also familiar with Go and its backend framework, Gin.",
   avatarUrl: " https://github.com/yogendrarana.png",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://www.yogendrarana.com.np/",
   contact: {
     email: "yogendrarana4321@gmail.com",
     tel: "+977 9825159891",
