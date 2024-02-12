@@ -1,22 +1,3 @@
-import {
-  AmbitLogo,
-  BarepapersLogo,
-  BimLogo,
-  CDGOLogo,
-  ClevertechLogo,
-  ConsultlyLogo,
-  EvercastLogo,
-  Howdy,
-  JarockiMeLogo,
-  JojoMobileLogo,
-  Minimal,
-  MobileVikingsLogo,
-  MonitoLogo,
-  NSNLogo,
-  ParabolLogo,
-  TastyCloudLogo,
-  YearProgressLogo,
-} from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
@@ -24,7 +5,7 @@ export const RESUME_DATA = {
   initials: "YR",
   location: "Pokhara, Nepal",
   locationLink: "https://www.google.com/maps/place/pokhara",
-  about: "Backend minded full stack developer",
+  about: "Full Stack Developer",
   summary: "Full stack web developer with over a year of experience building user interfaces and RESTful APIs. Proficient in JavaScript/TS and its frameworks like React, Next, Node, Express, and Nest. Also familiar with Go and its backend framework, Gin.",
   avatarUrl: " https://github.com/yogendrarana.png",
   personalWebsiteUrl: "https://jarocki.me",
@@ -69,7 +50,7 @@ export const RESUME_DATA = {
       link: "https://www.rangin.com.np/",
       badges: ["Hybrid"],
       title: "Full Stack Developer",
-      logo: ParabolLogo,
+      logo: "",
       start: "July, 2023",
       end: "present",
       description:
@@ -80,7 +61,7 @@ export const RESUME_DATA = {
       link: "https://www.nipunasewa.com/",
       badges: ["On Site"],
       title: "React JS Developer",
-      logo: ClevertechLogo,
+      logo: "",
       start: "Jan, 2023",
       end: "July, 2023",
       description:
@@ -111,7 +92,7 @@ export const RESUME_DATA = {
       title: "Iphone Fix by XPF",
       techStack: ["HTML", "CSS", "Vanilla JS"],
       description: "A simple website for a mobile repair shop. Role: Frontend Developer.",
-      logo: ConsultlyLogo,
+      logo: "",
       link: {
         label: "www.iphonefixbyxpf.com",
         href: "https://www.iphonefixbyxpf.com/",
@@ -121,7 +102,7 @@ export const RESUME_DATA = {
       title: "Artsy Web Gallery",
       techStack: ["JavaScript/TS", "React.js", "Redux Toolkit", "Express.js", "Mongo", "JWT", "Stripe", "Khalti"],
       description: "A web platform for artists to showcase their work and connect with art lovers.",
-      logo: ConsultlyLogo,
+      logo: "",
       link: {
         label: "artsy-art-gallery.vercel.app",
         href: "https://artsy-art-gallery.vercel.app/",
@@ -131,7 +112,7 @@ export const RESUME_DATA = {
       title: "Swift Chat",
       techStack: ["Side Project", "Next.js", "Zustand", "Pusher", "Next Auth", "Framer Motion"],
       description: "A minimal web chat application.",
-      logo: MonitoLogo,
+      logo: "",
       link: {
         label: "swift-web-chat.vercel.app",
         href: "https://swift-web-chat.vercel.app/",
@@ -141,7 +122,7 @@ export const RESUME_DATA = {
       title: "Ecommerce Website",
       techStack: ["Side Project", "React.js", "Zustand", "Framer Motion"],
       description: "An ecommerce website with all the necessary ui's like auth form, filter, slider, cart, payment form etc.",
-      logo: JarockiMeLogo,
+      logo: "",
       link: {
         label: "react-web-ecommerce.vercel.app",
         href: "https://react-web-ecommerce.vercel.app/",
