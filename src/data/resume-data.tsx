@@ -94,7 +94,7 @@ export const RESUME_DATA = {
       description: "A website for a night club in Pokhara. Role: Frontend Development.",
       logo: "",
       link: {
-        label: "www.catwalkpokhara.com/",
+        label: "www.catwalkpokhara.com",
         href: "https://www.catwalkpokhara.com/",
       },
     },
