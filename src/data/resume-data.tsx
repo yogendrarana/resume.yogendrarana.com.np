@@ -89,19 +89,19 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Iphone Fix by XPF",
-      techStack: ["HTML", "CSS", "Vanilla JS"],
-      description: "A simple website for a mobile repair shop. Role: Frontend Developer.",
+      title: "Catwalk Pokhara",
+      techStack: ["HTML", "CSS", "JS", "Laravel"],
+      description: "A website for a night club in Pokhara. Role: Frontend Development.",
       logo: "",
       link: {
-        label: "www.iphonefixbyxpf.com",
-        href: "https://www.iphonefixbyxpf.com/",
+        label: "www.catwalkpokhara.com/",
+        href: "https://www.catwalkpokhara.com/",
       },
     },
     {
       title: "Artsy Web Gallery",
       techStack: ["JavaScript/TS", "React.js", "Redux Toolkit", "Express.js", "Mongo", "JWT", "Stripe", "Khalti"],
-      description: "A web platform for artists to showcase their work and connect with art lovers.",
+      description: "A web platform for artists to showcase their work and connect with art lovers. Role: Fullstack Development.",
       logo: "",
       link: {
         label: "artsy-art-gallery.vercel.app",
@@ -111,7 +111,7 @@ export const RESUME_DATA = {
     {
       title: "Swift Chat",
       techStack: ["Side Project", "Next.js", "Zustand", "Pusher", "Next Auth", "Framer Motion"],
-      description: "A minimal web chat application.",
+      description: "A minimal web chat application. Role: Fullstack Development.",
       logo: "",
       link: {
         label: "swift-web-chat.vercel.app",
@@ -121,7 +121,7 @@ export const RESUME_DATA = {
     {
       title: "Ecommerce Website",
       techStack: ["Side Project", "React.js", "Zustand", "Framer Motion"],
-      description: "An ecommerce website with all the necessary ui's like auth form, filter, slider, cart, payment form etc.",
+      description: "An ecommerce website with ui components like filter, slider, cart, payment form etc. Role: Frontend Development.",
       logo: "",
       link: {
         label: "react-web-ecommerce.vercel.app",
