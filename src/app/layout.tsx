@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import { Analytics } from "@vercel/analytics/react";
 import { Inter } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 
 import "./globals.css";
 import React from "react";
@@ -16,13 +16,12 @@ const inter = Inter({
   display: "swap",
 });
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children, }: { children: React.ReactNode; }) {
   return (
     <html lang="en" className={inter.className}>
+      <head>
+        <link rel="icon" href="@/images/me/smiley.png" type="image/png+jpg" />
+      </head>
       <body>{children}</body>
       <Analytics />
     </html>
