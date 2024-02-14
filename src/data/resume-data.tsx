@@ -54,7 +54,7 @@ export const RESUME_DATA = {
       start: "July, 2023",
       end: "present",
       description:
-        "Worked as a fullstack developer to create user interfaces in React.js and Next.js and REST APIs in Node.js, Express.js, and Next.js. Technologies: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, Docker, and Nginx.",
+        "Worked as a fullstack developer to create user interfaces in React.js and Next.js and REST APIs in Node.js, Express.js, and Nest.js. Technologies: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, Docker, and Nginx.",
     },
     {
       company: "Nipuna Sewa",
