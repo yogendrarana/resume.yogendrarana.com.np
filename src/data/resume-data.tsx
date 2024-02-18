@@ -89,13 +89,13 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Catwalk Pokhara",
-      techStack: ["HTML", "CSS", "JS", "Laravel"],
+      title: "Iphone Fix by XPF",
+      techStack: ["HTML", "CSS", "JS"],
       description: "A website for a night club in Pokhara. Role: Frontend Development.",
       logo: "",
       link: {
-        label: "www.catwalkpokhara.com",
-        href: "https://www.catwalkpokhara.com/",
+        label: "www.iphonefixbyxpf.com",
+        href: "https://www.iphonefixbyxpf.com/",
       },
     },
     {
@@ -108,6 +108,18 @@ export const RESUME_DATA = {
         href: "https://artsy-art-gallery.vercel.app/",
       },
     },
+
+    {
+      title: "Catwalk Pokhara",
+      techStack: ["HTML", "CSS", "JS"],
+      description: "A website for a night club in Pokhara. Role: Integration of new features in already built project",
+      logo: "",
+      link: {
+        label: "www.catwalkpokhara.com",
+        href: "https://www.catwalkpokhara.com/",
+      },
+    },
+
     {
       title: "Swift Chat",
       techStack: ["Side Project", "Next.js", "Zustand", "Pusher", "Next Auth", "Framer Motion"],
