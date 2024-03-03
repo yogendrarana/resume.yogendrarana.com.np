@@ -6,7 +6,7 @@ export const RESUME_DATA = {
   location: "Pokhara, Nepal",
   locationLink: "https://www.google.com/maps/place/pokhara",
   about: "Full Stack Developer",
-  summary: "Full stack web developer with over a year of experience building user interfaces and RESTful APIs. Proficient in JavaScript/TS and its frameworks like React, Next, Node, Express, and Nest. Also familiar with Go and its backend framework, Gin.",
+  summary: "Full stack web developer with nearly two years of experience building user interfaces and RESTful APIs. Proficient in JavaScript/TS and its frameworks like React, Next, Node, Express, and Nest. Also familiar with Go and its backend framework, Gin.",
   avatarUrl: " https://github.com/yogendrarana.png",
   personalWebsiteUrl: "https://www.yogendrarana.com.np/",
   contact: {
